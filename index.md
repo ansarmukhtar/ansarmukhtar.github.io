@@ -8,4 +8,4 @@ Seeking Challenging career in Finance and Entrepreneurship to get a position of 
 ## Education
 ## Projects 
 ## Interests and hobbies
-<center>Loading</center>
+<center>Loading....</center>
