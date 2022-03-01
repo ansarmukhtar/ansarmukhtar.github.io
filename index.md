@@ -5,3 +5,7 @@ Seeking Challenging career in Finance and Entrepreneurship to get a position of 
 
 # Personal details
 ## Address 
+## Education
+## Projects 
+## Interests and hobbies
+<center>Loading</center>
