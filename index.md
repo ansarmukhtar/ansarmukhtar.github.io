@@ -5,6 +5,7 @@ Seeking Challenging career in Finance and Entrepreneurship to get a position of 
 
 # Personal details
 ## Education
+ i have done my Bachelor in Business Administration from University of Gujrat
 ## Projects 
 ## Interests and hobbies
 ## Address 
