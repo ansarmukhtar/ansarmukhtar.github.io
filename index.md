@@ -14,6 +14,8 @@ One belongs from Bio Technology. who take care of lab work.
 One belongs to marketing department who take care of marketing things.
 The other one belongs to management department and take care of management related issue.
 The fourth one was me and i have to manage the whole work.
+### 2. TurkDamacus
+TurkDamascus is the company who sell antique knife online through out the world online. i manage targeted marketing and new product cataloge. Also manage the financial matters of the company.
 ## Interests and hobbies
 my intrest are creating new ideas and impliment new strategy to learn new techniques. i love to create new business and make it successfull. 
 i like reading and keep eye on world's politics and news.
