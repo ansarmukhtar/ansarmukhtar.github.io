@@ -5,17 +5,84 @@ Seeking Challenging career in Finance and Entrepreneurship to get a position of 
 
 # Personal details
 ## Education
- i have done my Bachelor in Business Administration from University of Gujrat. my Bachelor specialization in Finance. after that i started my Master's degree From CBS International business school cologne. Germany.
-## Projects 
+ ### MASTER IN INTERNATIONAL BUSINESS-ENTREPRENEURSHIP – CBS International business school Cologne Germany
+
+* Entrepreneurship
+* International business
+* Finance Growth, fraud and risk management
+* Customer service
+* Digital network marketing
+* Research
+### ADVANCE COMPUTING SKILLS – London College of computing and language
+* Microsoft (Excel, Word, PowerPoint)
+* Windows operating System
+* Markdown, GitHub and HTML
+* Early stage of web development
+* Technological problem solving
+### BACHELOR OF BUSINESS ADMINISTRATION – University of Gujrat(Pakistan)
+* Finance ( Accounting, Management, Markets, International Finance)
+* Entrepreneurship
+* International business
+* Economics
+* Business Mathematics, Taxation, Banking & Law
+## Projects and work experience 
 i work with many projects. here i will tell you about my important projects. 
-### 1. Soil Tech
-Soil Tech is a project related to agriculture. the basic moto is increase the productivity of soil by doing the testing of the soil. same like the care of a human being do the care of your soil. i start this project during my bachelor's degree at Business incubation center "University of Gujrat". i run this project for more then three years and converted into a big company. there was four core mambers of my team. 
-One belongs from Bio Technology. who take care of lab work.
-One belongs to marketing department who take care of marketing things.
-The other one belongs to management department and take care of management related issue.
-The fourth one was me and i have to manage the whole work.
-### 2. TurkDamacus
-TurkDamascus is the company who sell antique knife online through out the world online. i manage targeted marketing and new product cataloge. Also manage the financial matters of the company.
+### MANAGING PARTNER – TURKDAMASCUS
+* Managing an online business on Etsy.com
+* Forefront and significantly involved in the successful development of product
+* Managing orders, new products
+* Financial control
+* Marketing strategy and Customer research
+* Website management and online campaign through different channels
+* Targeted marketing analysis
+* CRM and Partner management
+### FOUNDER/MANAGING DIRECTOR – SOIL TECH
+* Startup
+* (Administrative service) for Soil testing and productivity increment
+* Customer care service and support
+* Managing Finance, Marketing, and other departments
+* Buying and selling agricultural products
+* Organize events and Presenting new innovative products
+### BUSINESS INCUBATOR – BUSINESS INCUBATION CENTER UNIVERSITY OF GUJRAT
+* Budgeting, project estimation, and financial training
+* Marketing and administration
+* Event organization and managing team members
+* Preparation of financial statements
+* Strategizing
+* Quarterly and annual reporting
+### ASSISTANT FINANCE MANAGER – SIALKOT DRY PORT TRUST, SAMBRIAL SIALKOT
+* Financial assistance to manager
+* Perform SOX control
+* Consulting with banks and other financial institutes
+* Providing financial assistance to other departments
+* Journal and ledger entries
+* Reconciliation
+### Fish Farming through Biofloc method (Bachelor's project)
+* An innovative business solution for fish farming in Pakistan
+* Market research and devising a business plan
+* Estimation and budgeting
+* Tests in different market
+* Secured investment for the project
+* Successful operation of a new business
+### DIGITAL SKILLS
+#### Software
+* Microsoft Excel 
+* Microsoft Word 
+* Google Docs 
+* SPSS SOFTWARE        
+* EasyAccounting 
+* Microsoft Powerpoint
+#### Digital marketing
+* Social Media Research and analytical skills 
+* Zoom Presenting        
+* Decision-making 
+* Organizational and planning skills
+#### Basic skills
+* Accounting and tax accounting skills 
+* Financial Modeling and Analysis 
+* Cash Flow & Cash management 
+* Business Inteligence           
+* Analytical thinking
 ## Interests and hobbies
 my intrest are creating new ideas and impliment new strategy to learn new techniques. i love to create new business and make it successfull. 
 i like reading and keep eye on world's politics and news.
