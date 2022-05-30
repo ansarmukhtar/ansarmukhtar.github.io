@@ -5,6 +5,7 @@ Seeking Challenging career in Finance and Entrepreneurship to get a position of 
 
 # Personal details
 ## Education
+
 ### MASTER IN INTERNATIONAL BUSINESS-ENTREPRENEURSHIP – CBS International business school Cologne Germany
 
 * Entrepreneurship
