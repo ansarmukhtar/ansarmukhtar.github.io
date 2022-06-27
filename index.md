@@ -1,9 +1,59 @@
-# Basic Moto
-Seeking Challenging career in Finance and Entrepreneurship to get a position of responsibility using my skills and efficiency to communicate my ideas and views, and commit myself for achieving organizational objectives with the team effort, my positive attitude and performance. Want to be a part of an organization where I could use and enhance my knowledge and talent for the development of both the organization and myself.
+# About
+I have significant experience in entrepreneurship, investing, operations management, regulatory compliance, and stakeholder engagement. I am a proven leader equipped with advanced business acumen, as well as excellent interpersonal, communication, and negotiation skills. Furthermore, I have demonstrated a talent to occupy top executive roles and drive commerce in challenging and demanding settings. I am fluent in English and now I'm trying hard to improve my German. Some of my credentials, include:
+- International Business
+- IFRS
+- BBA Finance
+- Founder and Chairman of Soil Tech
+I am excited to be a LinkedIn's network member and to interact with professionals around the globe that have a passion for finance.
 
 ![ans.jpg](ans.JPG)
 
 # Personal details
+
+## Projects and work experience 
+i work with many projects. here i will tell you about my important projects. 
+### MANAGING PARTNER – TURKDAMASCUS
+* Managing a portfolio of more than 100 products online on different selling websites.
+* Forefront and significantly involved in the successful development of new product
+* Managing all orders
+* Financial control
+* Marketing strategy and Customer research
+* Website management and online campaign through different channels
+* Targeted marketing analysis
+* CRM and Partner management
+### FOUNDER/MANAGING DIRECTOR – SOIL TECH
+* Startup
+* (Administrative service) for Soil testing and productivity increment
+* Customer care service and support
+* Managing Financial statements, Marketing strategies, and other administrative works
+* Accounts payable management
+* Accounts receivable management
+* Buying and selling of different agricultural products
+* Preparation of the monthly financial statements
+* Organizing events and Presenting new innovative products to the customers
+* Documentation and implementation of different strategies
+### BUSINESS INCUBATOR – BUSINESS INCUBATION CENTER UNIVERSITY OF GUJRAT
+* Budgeting, project estimation, and financial training
+* Marketing and administration
+* Event organization and managing team members
+* Preparation of financial statements
+* Strategizing
+* Quarterly and annual reporting
+### ASSISTANT FINANCE MANAGER – SIALKOT DRY PORT TRUST, SAMBRIAL SIALKOT
+* Financial assistance to manager
+* SOX control using Excel and easyaccounting software
+* Consulting with banks and other financial institutes
+* Providing financial assistance to other departments
+* Journal and ledger entries
+* Independently Accounts Handling to focus on accuracy for the numbers
+* Reconciliation
+### Fish Farming through Biofloc method (Bachelor's project)
+* An innovative business solution for fish farming in Pakistan
+* Market research and devising a business plan
+* Estimation and budgeting
+* Tests in different market
+* Secured investment for the project
+* Successful operation of a new business
 ## Education
 
 ### MASTER IN INTERNATIONAL BUSINESS-ENTREPRENEURSHIP – CBS International business school Cologne Germany
@@ -26,45 +76,6 @@ Seeking Challenging career in Finance and Entrepreneurship to get a position of 
 * International business
 * Economics
 * Business Mathematics, Taxation, Banking & Law
-## Projects and work experience 
-i work with many projects. here i will tell you about my important projects. 
-### MANAGING PARTNER – TURKDAMASCUS
-* Managing an online business on Etsy.com
-* Forefront and significantly involved in the successful development of product
-* Managing orders, new products
-* Financial control
-* Marketing strategy and Customer research
-* Website management and online campaign through different channels
-* Targeted marketing analysis
-* CRM and Partner management
-### FOUNDER/MANAGING DIRECTOR – SOIL TECH
-* Startup
-* (Administrative service) for Soil testing and productivity increment
-* Customer care service and support
-* Managing Finance, Marketing, and other departments
-* Buying and selling agricultural products
-* Organize events and Presenting new innovative products
-### BUSINESS INCUBATOR – BUSINESS INCUBATION CENTER UNIVERSITY OF GUJRAT
-* Budgeting, project estimation, and financial training
-* Marketing and administration
-* Event organization and managing team members
-* Preparation of financial statements
-* Strategizing
-* Quarterly and annual reporting
-### ASSISTANT FINANCE MANAGER – SIALKOT DRY PORT TRUST, SAMBRIAL SIALKOT
-* Financial assistance to manager
-* Perform SOX control
-* Consulting with banks and other financial institutes
-* Providing financial assistance to other departments
-* Journal and ledger entries
-* Reconciliation
-### Fish Farming through Biofloc method (Bachelor's project)
-* An innovative business solution for fish farming in Pakistan
-* Market research and devising a business plan
-* Estimation and budgeting
-* Tests in different market
-* Secured investment for the project
-* Successful operation of a new business
 ### DIGITAL SKILLS
 #### Software
 * Microsoft Excel 
