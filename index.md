@@ -6,7 +6,7 @@ I have significant experience in entrepreneurship, investing, operations managem
 - Founder and Chairman of Soil Tech
 I am excited to be a LinkedIn's network member and to interact with professionals around the globe that have a passion for finance.
 
-![ans.jpg](ans.JPG) {width=250}
+![ans.jpg](ans.JPG width=50% height=50%)
 
 # Personal details
 
