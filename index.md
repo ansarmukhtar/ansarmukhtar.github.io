@@ -1,26 +1,26 @@
-#ANSAR MUKHTAR
+# ANSAR MUKHTAR
 
-##Working Student - Sales Data Support
+## Working Student - Sales Data Support
 
-##491636684053
+## 491636684053
 
-##Ansarsandhu74@gmail.com
+## Ansarsandhu74@gmail.com
 
-##https://www.linkedin.com/in/ansarmukhtar/
+## https://www.linkedin.com/in/ansarmukhtar/
 
-##Köln
+## Köln
 
 
-#SUMMARY
+# SUMMARY
 
 Dynamic and detail-oriented data analyst pursuing a Master’s degree in International Business, with solid experience in data analysis, reporting, and project support. Skilled in interpreting large datasets, extracting actionable insights, and presenting findings effectively in both English and German. Recognized for strong analytical skills, organizational proficiency, and a proactive, solutions-focused approach. Highly adaptable and committed to delivering value to data-driven teams across diverse industries.
 
 
-#EXPERIENCE
+# EXPERIENCE
 
-##Working Student - Sales Data Support
+## Working Student - Sales Data Support
 
-##HRS Group GmbH
+## HRS Group GmbH
 
 10/2023
 
@@ -31,9 +31,9 @@ Used Salesforce to generate pipeline reports, contributing to data accuracy and 
 Assisted in preparing management presentations, showcasing data insights and sales metrics for senior leadership
 Supported market and customer intelligence initiatives by analyzing competitor data and consolidating findings
 
-##Intern - Sales and Market Analysis
+## Intern - Sales and Market Analysis
 
-##Zwilling Restaurant
+## Zwilling Restaurant
 
 05/2023 - 09/2023
 
@@ -44,9 +44,9 @@ Maintained sales event calendar and collaborated with cross-functional teams for
 Assisted in proposal reviews, ensuring compliance with regulatory and internal standards
 Developed presentations that summarized tender outcomes, contributing to continuous learning and improvement
 
-##Junior Data Analyst
+## Junior Data Analyst
 
-##TurkDamascus
+## TurkDamascus
 
 11/2020 - 08/2022
 
@@ -56,9 +56,9 @@ Analyzed and interpreted sales and customer data to support business strategies,
 Prepared comprehensive reports based on market trends and customer insights, supporting the sales strategy resulting and increase in sale by 20%.
 Leveraged Excel to consolidate data for compliance checks and sales support, optimizing team efficiency
 
-##Sales Support Intern
+## Sales Support Intern
 
-##Sialkot Dry Port Trust
+## Sialkot Dry Port Trust
 
 08/2019 - 11/2020
 
@@ -68,9 +68,9 @@ Assisted with sales tracking, event calendar management, and Salesforce data inp
 Conducted post-tender analyses to capture learnings and identify areas for improvement in future proposals
 Coordinated with team members on sales support functions, contributing to improved sales cycle tracking
 
-##Business Innovation Consultancy Project
+## Business Innovation Consultancy Project
 
-##BIC University of Gujrat
+## BIC University of Gujrat
 
 09/2017 - 02/2019
 
@@ -79,25 +79,25 @@ Gujrat, Pakistan
 Led data consolidation and analysis efforts, supporting the project's market research and sales strategy alignment
 Presented findings to project stakeholders, contributing to actionable insights and improved project outcomes
 
-#EDUCATION
+# EDUCATION
 
-##Master's in International Business
+## Master's in International Business
 
-##CBS International business School
+## CBS International business School
 
 08/2021 - Present
 
 Cologne, Germany
 
-##Bachelors in Business Administration
+## Bachelors in Business Administration
 
-##University Of Gujrat
+## University Of Gujrat
 
 08/2015 - 06/2019
 
 Gujrat Pakistan
 
-#LANGUAGES
+# LANGUAGES
 
 English
 
@@ -107,7 +107,7 @@ German
 
 Advanced
 
-#SKILLS
+# SKILLS
 
 Excel
 
@@ -139,10 +139,10 @@ Market Analysis
 
 FIND ME ONLINE
 
-Linkedin
+# Linkedin
 
 https://www.linkedin.com/in/ansarmukhtar/
 
-Certifi cation
+# Certifi cation
 
 https://drive.google.com/drive/folders/1JqWMdhw5nKtVbqEkGxoztpmCjapo4-_D
