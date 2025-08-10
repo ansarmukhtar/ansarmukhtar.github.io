@@ -40,7 +40,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         // Email Details
         $mail->setFrom('87542f001@smtp-brevo.com', 'Junaid Khan');
-        $mail->addAddress('itxjunaid22@gmail.com'); // Receiver email
+        $mail->addAddress('ansarsandhu74@gmail.com'); // Receiver email
         $mail->addReplyTo($email, $name);
 
         $mail->Subject = "New Contact Form Message: $subject";
