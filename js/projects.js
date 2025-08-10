@@ -76,10 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
         filterSection.className = 'project-filter';
         filterSection.innerHTML = `
             <button class="filter-btn active" data-filter="all">All Projects</button>
-            <button class="filter-btn" data-filter="computer-vision">Computer Vision</button>
-            <button class="filter-btn" data-filter="nlp">NLP</button>
-            <button class="filter-btn" data-filter="ml">Machine Learning</button>
-            <button class="filter-btn" data-filter="deep-learning">Deep Learning</button>
+            <button class="filter-btn" data-filter="computer-vision">Dashboards</button>
+            <button class="filter-btn" data-filter="nlp">Financial Models</button>
+            <button class="filter-btn" data-filter="ml">SQL Analysis</button>
+            <button class="filter-btn" data-filter="deep-learning">Financial Analysis</button>
         `;
         projectsGrid.parentNode.insertBefore(filterSection, projectsGrid);
         
