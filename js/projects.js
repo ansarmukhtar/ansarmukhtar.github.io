@@ -7,15 +7,16 @@ document.addEventListener('DOMContentLoaded', function() {
     // Project data - can be expanded with more details
     const projectData = [
         {
-            id: 'advanced-object-detection',
-            title: 'Advanced Object Detection',
-            category: 'computer-vision',
-            image: 'assets/images/obj.png',
-            description: 'A real-time object detection system using deep learning techniques to identify and track multiple objects in videos and live camera feeds. The system utilizes YOLO (You Only Look Once) architecture and achieves state-of-the-art accuracy while maintaining high processing speeds.',
-            technologies: ['PyTorch', 'OpenCV', 'YOLO', 'Python', 'CUDA'],
-            github: 'https://github.com/yourusername/object-detection',
-            demo: 'https://your-demo-link.com/object-detection'
-        },
+            id: 'sales-margin-dashboard',
+            title: 'Sales & Margin Dashboard',
+            category: 'finance', // keep consistent with your HTML/filtering
+            image: 'assets/images/obj.png', // your screenshot
+            description: 'End-to-end Power BI dashboard with star schema, DAX measures, and executive KPI tracking.',
+            technologies: ['Power BI', 'DAX', 'Excel'],
+            github: 'https://github.com/ansarmukhtar/Portfolio', // << your real repo
+            demo: '#'
+        }
+,
         {
             id: 'sentiment-analysis',
             title: 'Sentiment Analysis Platform',
